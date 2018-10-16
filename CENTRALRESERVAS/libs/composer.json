@@ -1,0 +1,6 @@
+{
+    "name": "fu-manchu/libs",
+    "require": {
+        "phpmailer/phpmailer": "^6.0"
+    }
+}

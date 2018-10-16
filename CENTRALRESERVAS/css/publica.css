@@ -1,0 +1,411 @@
+/*parte publica*/
+
+
+
+
+body#cuerpopartepublica {
+}
+
+
+header#cabeceracontenidopartepublica {
+
+}
+
+
+section#seccionpartepublica {
+
+    padding-top: 2%;
+    padding-bottom: 25%;
+
+
+}    
+
+footer#piepartepublica {
+
+}
+
+.mapa{
+    /*
+    margin-top:6%;
+    position: absolute; 
+    left: 48%; 
+     */ 
+    width: 100%;
+    height: 30em;
+
+    z-index: 2;
+}
+
+@media (max-width: 575px) {
+    a.enlacesmapa{
+        font-size:1.4em;
+    }
+
+    h1.cabeceracondiciones {
+
+        font-size: 2.0em;
+
+    }
+    h5.subcabeceracondiciones {
+
+        font-size:1.2em;
+
+    }
+    h2.subcabeceracondiciones {
+
+
+
+    }
+
+    section#seccionpartepublica {
+
+        padding-top: 2%;
+        padding-bottom: 30%;
+
+
+    }    
+    h1#cabeceraprincipalpartepublica {
+
+        font-size:1.4em;
+        font-weight:bolder;
+
+
+    }
+    h2#subcabeceraprincipalpartepublica {
+
+
+        font-size:0.7em;
+        font-weight:bolder;
+        color:red;
+
+    }
+
+    h1.cabeceraoferta {
+
+        font-size: 1.3em;
+
+
+
+    }
+
+
+    h3.subcabeceracontroles {
+
+        font-size:0.6em;
+
+    }
+    small#textopiepartepublica {
+
+        font-size:0.5em;
+
+    }
+    article.textodescripcioncasarural{
+
+    }
+    a.enlacespie {
+
+        font-size: 0.7em;
+
+    }
+    .textocalendario {
+
+
+    }
+}
+
+@media (min-width: 576px) and (max-width: 767px) {
+    a.enlacesmapa{
+        font-size:1.4em;
+    }
+
+    h1.cabeceracondiciones {
+
+
+    }
+
+    h5.subcabeceracondiciones {
+
+
+
+    }
+    section#seccionpartepublica {
+
+        padding-top: 2%;
+        padding-bottom: 30%;
+
+
+    }    
+    h1#cabeceraprincipalpartepublica {
+
+        font-size:1.4em;
+        font-weight:bolder;
+
+
+    }
+    h2#subcabeceraprincipalpartepublica {
+
+
+        font-size:0.7em;
+        font-weight:bolder;
+        color:red;
+
+    }
+
+    h1.cabeceraoferta {
+
+        font-size: 1.3em;
+
+
+
+    }
+
+
+    h3.subcabeceracontroles {
+
+        font-size:0.6em;
+
+    }
+    small#textopiepartepublica {
+
+        font-size:0.5em;
+
+    }
+    article.textodescripcioncasarural{
+
+    }
+    a.enlacespie {
+
+
+    }
+    .textocalendario {
+
+
+    }
+
+
+
+}    
+
+
+
+
+
+
+@media (min-width: 768px) and (max-width: 991px) {
+    a.enlacesmapa{
+        font-size:1.8em;
+    }
+
+    h1.cabeceracondiciones {
+
+
+    }
+    h5.subcabeceracondiciones {
+
+
+
+    }
+    section#seccionpartepublica {
+
+        padding-top: 2%;
+        padding-bottom: 25%;
+
+
+    }    
+    h1#cabeceraprincipalpartepublica {
+
+
+        font-weight:bolder;   font-weight:bolder;
+
+
+    }
+    h2#subcabeceraprincipalpartepublica {
+
+
+
+        font-weight:bolder;
+
+
+    }
+    h1.cabeceraoferta {
+
+        font-size: 1.3em;
+
+    }
+
+
+    h3.subcabeceracontroles {
+
+        font-size:0.6em;
+
+    }
+
+    small#textopiepartepublica {
+
+        font-size:0.5em;
+
+    }
+    article.textodescripcioncasarural{
+
+    }
+    a.enlacespie {
+
+
+    }
+    .textocalendario {
+
+
+    }
+
+
+}  
+
+
+
+
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    a.enlacesmapa{
+        font-size:2em;
+    }
+    h1.cabeceracondiciones {
+
+
+    }
+    h5.subcabeceracondiciones {
+
+
+
+    }
+    section#seccionpartepublica {
+
+        padding-top: 2%;
+        padding-bottom: 25%;
+
+
+    }    
+    h1#cabeceraprincipalpartepublica {
+
+
+
+
+        font-weight:bolder;
+
+    }
+
+
+    h2#subcabeceraprincipalpartepublica {
+
+
+
+        font-weight:bolder;
+
+
+    }
+    h1.cabeceraoferta {
+        font-size: 1.5em;
+    }
+
+    h3.subcabeceracontroles {
+
+        font-size:1em;
+
+    }
+
+    small#textopiepartepublica {
+
+        font-size:0.5em;
+
+    }
+
+    article.textodescripcioncasarural{
+    }
+    a.enlacespie {
+
+
+    }
+    .textocalendario {
+
+
+    }
+
+}
+
+
+
+
+@media (min-width: 1200px) {
+    a.enlacesmapa{
+        font-size:2em;
+    }
+    h1.cabeceracondiciones {
+
+
+    }
+    h5.subcabeceracondiciones {
+
+
+
+    }
+    section#seccionpartepublica {
+
+        padding-top: 2%;
+        padding-bottom: 15%;
+
+
+    }    
+
+    h1#cabeceraprincipalpartepublica {
+
+
+        font-size:5em;
+        font-weight:bolder;
+
+
+    }
+
+    h2#subcabeceraprincipalpartepublica {
+
+
+
+        font-weight:bolder;
+
+
+    }
+
+    h1.cabeceraoferta {
+
+        font-size: 1.7em;
+
+    }
+
+
+    small#textopiepartepublica {
+
+        font-size:0.8em;
+
+    }
+    article.textodescripcioncasarural{
+        font-size:1.2em;      
+    }
+
+    a.enlacespie {
+
+
+    }
+
+    .textocalendario {
+
+
+    }
+
+
+}
+/*parte publica*/
+
+
+
+
+
+
+

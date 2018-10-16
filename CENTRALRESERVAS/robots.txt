@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /nbroject/
+Disallow: /incoming/
+Disallow: /intranet/
+Sitemap: http://84.125.105.121/CENTRALRESERVAS/sitemap.xml
+Crawl-delay: 30
+Visit-time: 2300-0300 
